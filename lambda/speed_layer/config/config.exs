@@ -1,0 +1,7 @@
+# This file is responsible for configuring your application
+# and its dependencies with the aid of the Mix.Config module.
+use Mix.Config
+
+config :stream_processing,
+  name: :stream_processing,
+  node: :stream@e330
